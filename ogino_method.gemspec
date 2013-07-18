@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = OginoMethod::VERSION
   spec.authors       = ["KURASAWA Nozomu"]
   spec.email         = ["nabetaro@caldron.jp"]
-  spec.description   = %q{TODO: Write a gem descript}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{The calculation of fertilable by Kyusaku Ogino}
+  spec.summary       = %q{The calculation of fertilable by Kyusaku Ogino}
   spec.homepage      = ""
   spec.license       = "MIT"
 
